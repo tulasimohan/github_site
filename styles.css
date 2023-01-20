@@ -4,21 +4,21 @@ body {
 .icon {
   position: sticky;
 /*  float: left;*/
-  top: 20px;
-  left: 20px;
-  width: 70px;
-  height: 70px;
-  padding: 10px;
+  top: 1.2em;
+  left: 1.2em;
+  width: 4em;
+  height: 4em;
+  padding: .7em;
 }
 
 .main_icon {
   position: sticky;
 /*  float: left;*/
-  top: 20px;
-  left: 20px;
-  width: 120px;
-  height: 120px;
-  padding: 10px;
+  top: 1.6em;
+  left: 1.6em;
+  width: 7.8em;
+  height: 7.8.4em;
+  padding: .8em;
 
 }
 .tulasi-pic{
