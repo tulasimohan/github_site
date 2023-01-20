@@ -1,28 +1,48 @@
 body {
-    font-family: Arial, sans-serif;
-  }
-  .tulasi-pic{
-    color: green
-  }
-  .container {
-    width: 80%;
-    margin: 0 auto;
-    text-align: center;
-    padding: 50px 0;
-  }
-  h1 {
-    font-size: 4em;
-    margin-bottom: 20px;
-  }
-  p {
-    font-size: 1.5em;
-    line-height: 1.5;
-    margin-bottom: 50px;
-  }
-  a {
-    color: blue;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
+  font-family: Arial, sans-serif;
+}
+.icon {
+  position: sticky;
+/*  float: left;*/
+  top: 20px;
+  left: 20px;
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+}
+
+.main_icon {
+  position: sticky;
+/*  float: left;*/
+  top: 20px;
+  left: 20px;
+  width: 120px;
+  height: 120px;
+  padding: 10px;
+
+}
+.tulasi-pic{
+  color: green
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px 0;
+}
+h1 {
+  font-size: 4em;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 1.5em;
+  line-height: 1.5;
+  margin-bottom: 50px;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
