@@ -19,7 +19,7 @@ form {
 
 .search_icon {
   position:sticky;
-  float: right;
+/*  float: right;*/
   top: 0em;
   left: 12em;
   width: 1.2em;
