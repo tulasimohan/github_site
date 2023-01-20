@@ -20,11 +20,11 @@ form {
 .search_icon {
   position:sticky;
 /*  float: right;*/
-  top: 0em;
-  left: 12em;
+  top: 3em;
+  right: 0em;
   width: 1.2em;
   height: 1.2em;
-  padding: 0em;
+  padding: .1em;
 }
 
 .main_icon {
