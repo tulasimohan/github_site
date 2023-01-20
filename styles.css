@@ -1,6 +1,12 @@
 body {
   font-family: Arial, sans-serif;
 }
+form {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
 .icon {
   position: sticky;
 /*  float: left;*/
@@ -9,6 +15,16 @@ body {
   width: 4em;
   height: 4em;
   padding: .7em;
+}
+
+.search_icon {
+  position:sticky;
+  float: right;
+  top: 0em;
+  left: 12em;
+  width: 1.2em;
+  height: 1.2em;
+  padding: 0em;
 }
 
 .main_icon {
@@ -45,4 +61,9 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+form button{
+  background-color: transparent;
+  color:white;
+  border: none; 
 }
