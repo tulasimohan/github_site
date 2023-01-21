@@ -36,9 +36,10 @@ form {
   height: 7.8.4em;
   padding: .8em;
 }
-.tulasi-pic{
-  color: green
+.left {
+  text-align: left;
 }
+
 .container {
   width: 80%;
   margin: 0 auto;
