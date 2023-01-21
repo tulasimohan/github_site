@@ -8,7 +8,7 @@ form {
   z-index: 1;
 }
 .icon {
-  position: sticky;
+  position: block;
 /*  float: left;*/
   top: 1.2em;
   left: 1.2em;
@@ -28,7 +28,7 @@ form {
 }
 
 .main_icon {
-  position: sticky;
+  position: block;
 /*  float: left;*/
   top: 1.6em;
   left: 1.6em;
@@ -67,3 +67,4 @@ form button{
   color:white;
   border: none; 
 }
+
