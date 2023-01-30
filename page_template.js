@@ -31,9 +31,8 @@ const social_media = `<div class="container">
     </a>              
   </div> `;
 
-  const content = `  <h1> Welcome to my homepage </h1>
-  <p>Hi, I am Tulasi. I am a theoretical computer scientist, with a focus on complexity theory. My research interests include the design and analysis of efficient algorithms for solving computational problems, as well as the study of the fundamental limits of computation. I am also interested in the application of theoretical computer science to other fields such as cryptography and machine learning.</p>
-  <p style = "color:maroon">Warning: This site is under construction. Here is my <a href= "https://sites.google.com/view/tulasimohanmolli/home"> current Webpage.</a>  </p>`;
+  const content = document.getElementById("content").value;
+  const page_name = document.getElementById("page_name").value;
 
 function generateTemplate(page_name, content) {
 let template = search_bar;
